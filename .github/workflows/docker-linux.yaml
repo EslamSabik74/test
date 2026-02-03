@@ -10,5 +10,4 @@ jobs:
                 -u "${{ secrets.DOCKER_USERNAME }}" \
                 --password-stdin
 
-
  
