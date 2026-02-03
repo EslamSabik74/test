@@ -1,4 +1,4 @@
-name: docker login with linux
+name: docker login with action 
 on: push
 jobs:
     job1:
