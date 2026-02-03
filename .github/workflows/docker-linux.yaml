@@ -1,5 +1,4 @@
 name: docker login with linux
-
 on: push
 jobs:
     job1:
